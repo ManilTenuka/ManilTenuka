@@ -107,6 +107,3 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniltenuka&show_icons=true&locale=en" alt="maniltenuka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maniltenuka&" alt="maniltenuka" /></p>
