@@ -1,11 +1,5 @@
 <h1 align="left">Hi 👋, I'm Manil Tenuka</h1>
-<h3 align="left" >A passionate Computer Science enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maniltenuka&label=Profile%20views&color=0e75b6&style=flat" alt="maniltenuka" /> </p>
-
-- 🔭 I’m currently working on [Propath-Career-Development-Platform](https://github.com/ProPath-Career-Development-Platform) , [Kings-Institute-Nugegoda](https://github.com/ProPath-Career-Development-Platform)
-
-- 🌱 I’m currently learning **SpringBoot, Angular**
+<h3 align="left">Exploring the world of Agentic AI and Intelligent Systems</h3>
 
 - 📫 How to reach me **maniltenuka@gmail.com**
 
